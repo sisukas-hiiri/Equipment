@@ -9,7 +9,12 @@ Credits for images:
 * http://opengameart.org/content/melee-weapons
 * http://opengameart.org/content/scimitar-sword
 * http://opengameart.org/content/war-axe-64x64
+* http://opengameart.org/content/mace-in-your-face
 
 Credits for sounds:
 
 Inventory Sounds (by artisticdude): http://opengameart.org/content/inventory-sound-effects
+
+Credits for descriptions:
+
+* https://en.wikipedia.org/wiki/Mace_(weapon)
